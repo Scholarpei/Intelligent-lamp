@@ -45,6 +45,24 @@ pth/
 audios/
 esp32/
 
+# Flutter/Dart specific
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+*.iml
+*.iws
+*.ipr
+*.lock
+*.g.dart
+*.freezed.dart
+*.mocks.dart
+
 # Environment
 .env
 venv/
