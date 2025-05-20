@@ -105,7 +105,31 @@ SCUT-Intelligent_lamp-计组大作业/
 
 ## 贡献者
 
-[待补充]
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/jo-xin">
+        <img src="https://avatars.githubusercontent.com/jo-xin" width="100px;" alt="jo-xin"/>
+        <br />
+        <sub><b>jo-xin</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/HWeng302">
+        <img src="https://avatars.githubusercontent.com/HWeng302" width="100px;" alt="HWeng302"/>
+        <br />
+        <sub><b>HWeng302</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Scholarpei">
+        <img src="https://avatars.githubusercontent.com/Scholarpei" width="100px;" alt="Scholarpei"/>
+        <br />
+        <sub><b>Scholarpei</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## 许可证
 
