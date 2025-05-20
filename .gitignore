@@ -63,6 +63,22 @@ build/
 *.freezed.dart
 *.mocks.dart
 
+# Flutter/Dart build artifacts
+**/build/
+**/android/.gradle/
+**/android/app/build/
+**/android/local.properties
+**/ios/Pods/
+**/ios/.symlinks/
+**/ios/Flutter/Flutter.framework/
+**/ios/Flutter/Flutter.podspec
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/app.flx
+**/ios/Flutter/app.zip
+**/ios/Flutter/flutter_assets/
+**/ios/ServiceDefinitions.json
+**/ios/Runner/GeneratedPluginRegistrant.*
+
 # Environment
 .env
 venv/

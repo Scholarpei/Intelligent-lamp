@@ -5,11 +5,15 @@
 一个简单的基于esp32的寝室响指开关灯装置
 
 识别响指部分参考代码+视频演示:
+
 B站up主 The_KOG 响指关灯! 宿舍智能化改造(已开源) https://www.bilibili.com/video/BV1UP411K7Xt/
+
 代码库:https://github.com/TheKOG/InfinityGauntlet
+
 本项目仅修改`connect.py`单个文件以从原先适配的经典蓝牙更改为适配BLE
 
 请注意,我们的项目适配的灯种类为下面图片这种,如果与你的种类不同,请修改代码中的角度部分,或者切换为更加适合的安装角度:
+
 ![](https://raw.githubusercontent.com/Scholarpei/PicGo_picture/main/library/20250521000210915.png)
 
 
